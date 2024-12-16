@@ -1,6 +1,6 @@
 # Color-Convecter +
 
-Для запуска веб-приложения скачайте все файлы(Color-Convecter.css, Color-Convecter.html, Color-Convecter.js)
+Для запуска веб-приложения скачайте все файлы(Color-Convecter.css, index.html, Color-Convecter.js)
 в одну папку и откроте Color-Convecter.html - вас перенаправит на веб-страницу.
 Теперь вы можете пользоваться конвектором цветов CMYK ↔ LAB ↔ HSV.
 
